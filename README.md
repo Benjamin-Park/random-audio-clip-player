@@ -15,4 +15,4 @@ Quick hacked together program that plays a random audio clip from a folder.
 1. Install python3 and dependencies from requirements.txt
 2. Place audio files in mp3 or wav format inside the `audio/` folder.
 3. run the script `play-random.py`
-
+> The script can also be run in the background by rename the script to `play-random.pyw`
